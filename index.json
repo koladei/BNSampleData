@@ -1,0 +1,38 @@
+{
+  "0001":{
+    "SObject": "Contact",
+    "TextValues": {
+      "FirstName": "Kolade",
+      "LastName": "Ige",
+      "Email": "kolade.ige@gmail.com"
+    },
+    "NumberValues": {
+      "FirstName": "Kolade",
+      "LastName": "Ige",
+      "Email": "kolade.ige@gmail.com"
+    },
+    "LookupValues": {
+      "FirstName": "Kolade",
+      "LastName": "Ige",
+      "Email": "kolade.ige@gmail.com"
+    }
+  },  
+  "0002":{
+    "SObject": "Contact",
+    "TextValues": {
+      "FirstName": "Kolade",
+      "LastName": "Ige",
+      "Email": "kolade.ige@gmail.com"
+    },
+    "NumberValues": {
+      "FirstName": "Kolade",
+      "LastName": "Ige",
+      "Email": "kolade.ige@gmail.com"
+    },
+    "LookupValues": {
+      "FirstName": "Kolade",
+      "LastName": "Ige",
+      "Email": "kolade.ige@gmail.com"
+    }
+  }
+}
